@@ -241,4 +241,10 @@ html{
         height:40px;
         width:50px;
     }
+    .form{
+      align-items:center;
+    }
+    .area{
+    height : 40px;
+    width:30px;
 }
