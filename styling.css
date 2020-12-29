@@ -91,10 +91,14 @@ html{
 }
 .text-big{
     font-size: 33px;
+    font-family: 'Courier New', Courier, monospace;
+    color: orchid;
+    font-weight: bold;
     
 }
 .text-small{
     font-size: 18px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .btn, .btn1{
     padding: 8px 20px;
